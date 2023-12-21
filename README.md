@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Raphael and I'm a Backend Engineer, from Nigeria</p>
+<p align="left">My name is Raphael a C# .NET developer with over 4 years of experience. I specialize in building scalable and efficient backend solutions.</p>
 
 ###
 
@@ -16,8 +16,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>🔭 I’m currently working on SafeCrypt<br>📚 I'm currently learning Machine Learning with ML.Net<br>🎯 Goals: more and more money<br>🎲 Fun fact: coding ??</p>
 
+<p align="left">🐛 Battling bugs like a superhero since 2018<br>
+🔒 I’m currently on a mission to turn the world into a secret vault with SafeCrypt (check out this project on my repo) – or at least attempting to make it hacker-resistant! 🔐😅 <br>
+🤖 Currently diving into the mysterious realm of Machine Learning with ML.Net<br>
+💰 Goals: Stack more cash, code more efficiently<br>
+🎲 Fun fact: If there is food, I will be there <br>
+🚀 Always up for learning, sharing laughs, and teaming up on wild coding adventures. Let's create some tech magic! 🧙‍♂️✨</p>
 ###
 
 <br clear="both">
