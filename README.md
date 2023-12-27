@@ -6,6 +6,8 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
 
 <p align="left">My name is Raphael a C# .NET developer with over 4 years of experience. I specialize in building scalable and efficient backend solutions.</p>
