@@ -6,15 +6,19 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<div align=left>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Raphael;Backend+Engineer;C+sharp+.net+developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiastic;" alt="Headline" />
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
-<p align="left">My name is Raphael a C# .NET developer with over 4 years of experience. I specialize in building scalable and efficient backend solutions.</p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h2>***About me ....***</h2>
 
-###
 
-<h2 align="left">About me</h2>
+<p align="left">My name is Raphael a  with over 4 years of experience. I specialize in building scalable and efficient backend solutions.</p>
+
 
 ###
 
