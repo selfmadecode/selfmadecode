@@ -4,10 +4,10 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+## Hi, I am Raphael, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+Raphael;Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
   
   <!-- 
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Raphael;Backend+Engineer;C+sharp+.net+developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiastic;" alt="Headline" />
@@ -16,24 +16,30 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h2>***About me ....***</h2>
+<br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## About me:
 
-<p align="left">My name is Raphael a  with over 4 years of experience. I specialize in building scalable and efficient backend solutions.</p>
+<p align="left">4+ years professional experience as a C# .NET developer. Specialised in backend development and always tries to get my hands dirty on other tools or languages. I am a fast learner, awlays wanting to improve and eager to explore new technologies.</p>
 
 
 ###
 
 
 <p align="left">🐛 Battling bugs like a superhero since 2018<br>
-🔒 I’m currently on a mission to turn the world into a secret vault with SafeCrypt (check out this project on my repo) – or at least attempting to make it hacker-resistant! 🔐😅 <br>
-🤖 Currently diving into the mysterious realm of Machine Learning with ML.Net<br>
-💰 Goals: Stack more cash, code more efficiently<br>
+🤖 Currently diving into the realm of Machine Learning with ML.Net<br>
+👯 I’m looking to collaborate on C#, Machine Learning or AI Projects <br>
 🎲 Fun fact: If there is food, I will be there <br>
-🚀 Always up for learning, sharing laughs, and teaming up on wild coding adventures. Let's create some tech magic! 🧙‍♂️✨</p>
-###
+💬 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion. <br>
+✉️ You can shoot me an email at anyanwuraphaelc@gmail.com! I'll try to respond as soon as I can. <br>
+📫 I am also a technical writer at Medium <br>
+   📰 Articles: <br></p>
+
+- [Running a .NET Application with MongoDB on Docker](https://medium.com/@anyanwuraphaelc/deploying-a-net-application-with-mongodb-on-docker-a-step-by-step-guide-10513d2d98e2) <br>
+- [Benefits of AsNoTracking in Entity Framework Core: A Guide to Improved Performance](https://medium.com/@anyanwuraphaelc/benefits-of-asnotracking-in-entity-framework-core-a-guide-to-improved-performance-186ed44a5eb7) <br>
+- [First vs FirstOrDefault, Single vs SingleOrDefault: A High-level Look](https://medium.com/@anyanwuraphaelc/first-vs-firstordefault-single-vs-singleordefault-a-high-level-look-d24db17a2bc3) <br>
 
 __Feel free to contribute to these projects:__
 
@@ -76,18 +82,34 @@ __Feel free to contribute to these projects:__
 ###
 
 <br clear="both">
+<br>
 
-<div align="left">
+
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/anyanwu-raphael/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:anyanwuraphaelc@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/meet_selfmade"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://medium.com/@anyanwuraphaelc"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a href="https://wa.link/9zsz3u" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="24" alt="whatsapp logo"  />
+  </a>
+
+<!-- 
+  <div align="left">
   <a href="https://www.linkedin.com/in/anyanwu-raphael/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/meet_selfmade" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="24" alt="twitter logo"  />
   </a>
-  <a href="https://wa.link/9zsz3u" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="24" alt="whatsapp logo"  />
-  </a>
+  
 </div>
+  -->
 
 ###
 
