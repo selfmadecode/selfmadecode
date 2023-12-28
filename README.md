@@ -42,7 +42,8 @@
 - [First vs FirstOrDefault, Single vs SingleOrDefault: A High-level Look](https://medium.com/@anyanwuraphaelc/first-vs-firstordefault-single-vs-singleordefault-a-high-level-look-d24db17a2bc3) <br>
 
 <br>
-__Feel free to contribute to these projects:__
+
+## Feel free to contribute to these projects
 
 
 <div>
