@@ -6,8 +6,12 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<div align=left>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+Raphael;Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
+  
+  <!-- 
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Raphael;Backend+Engineer;C+sharp+.net+developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiastic;" alt="Headline" />
+  -->
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
@@ -30,6 +34,16 @@
 🎲 Fun fact: If there is food, I will be there <br>
 🚀 Always up for learning, sharing laughs, and teaming up on wild coding adventures. Let's create some tech magic! 🧙‍♂️✨</p>
 ###
+
+__Feel free to contribute to these projects:__
+
+<div>
+  <p>
+    <a href="https://github.com/selfmadecode/SafeCrypt.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeCrypt" alt="GitHub Stats" />
+    </a>    
+  </p>
+</div>
 
 <br clear="both">
 
