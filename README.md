@@ -50,7 +50,7 @@ __Feel free to contribute to these projects:__
     </a>    
   </p>
   <p>
-    <a href="https://github.com/selfmadecode/SafeCrypt.git">
+    <a href="https://github.com/selfmadecode/NextGen-ERP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=NextGen-ERP" alt="GitHub Stats" />
     </a>    
   </p>
