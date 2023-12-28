@@ -41,7 +41,9 @@
 - [Benefits of AsNoTracking in Entity Framework Core: A Guide to Improved Performance](https://medium.com/@anyanwuraphaelc/benefits-of-asnotracking-in-entity-framework-core-a-guide-to-improved-performance-186ed44a5eb7) <br>
 - [First vs FirstOrDefault, Single vs SingleOrDefault: A High-level Look](https://medium.com/@anyanwuraphaelc/first-vs-firstordefault-single-vs-singleordefault-a-high-level-look-d24db17a2bc3) <br>
 
+<br>
 __Feel free to contribute to these projects:__
+
 
 <div>
   <p>
