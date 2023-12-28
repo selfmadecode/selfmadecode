@@ -49,6 +49,11 @@ __Feel free to contribute to these projects:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeCrypt" alt="GitHub Stats" />
     </a>    
   </p>
+  <p>
+    <a href="https://github.com/selfmadecode/SafeCrypt.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=NextGen-ERP" alt="GitHub Stats" />
+    </a>    
+  </p>
 </div>
 
 <br clear="both">
