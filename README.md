@@ -1,8 +1,8 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=selfmadecode.selfmadecode&"  />
-</div>
 
-###
+![GitHub followers](https://img.shields.io/github/followers/selfmadecode?style=social)
+</div>
 
 ## Hi, I am Raphael, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
