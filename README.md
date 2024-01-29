@@ -33,7 +33,7 @@
 👯 I’m looking to collaborate on C#, Machine Learning or AI Projects <br>
 🎲 Fun fact: If there is food, I will be there <br>
 💬 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion. <br>
-✉️ You can shoot me an email at anyanwuraphaelc@gmail.com! I'll try to respond as soon as I can. <br>
+✉️ You can shoot me an email at anyanwuraphaelc@gmail.com I'll try to respond as soon as I can. <br>
 📫 I am also a technical writer at Medium <br>
    📰 Articles: <br></p>
 
