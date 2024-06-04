@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/selfmadecode?style=social)
 </div>
 
-## Hi, I am Raphael, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, I am Raphael, great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
