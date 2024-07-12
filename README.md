@@ -47,8 +47,8 @@
 
 <div>
   <p>
-    <a href="https://github.com/selfmadecode/SafeEncrypt.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeEncrypt" alt="GitHub Stats" />
+    <a href="https://github.com/selfmadecode/SafeEnkrypt.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeEnkrypt" alt="GitHub Stats" />
     </a>    
   </p>
   <p>
