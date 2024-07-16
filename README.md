@@ -22,7 +22,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ## About me:
 
-<p align="left">5+ years professional experience as a C# .NET developer. Specialised in backend development and always tries to get my hands dirty on other tools or languages. I am a fast learner, always wanting to improve and eager to explore new technologies.</p>
+<p align="left">4+ years professional experience as a C# .NET developer. Specialised in backend development and always tries to get my hands dirty on other tools or languages. I am a fast learner, always wanting to improve and eager to explore new technologies.</p>
 
 [Buy me coffe](https://www.buymeacoffee.com/raphaelanyanwu) <br>
 ###
