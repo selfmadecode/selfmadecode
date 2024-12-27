@@ -52,8 +52,8 @@
     </a>    
   </p>
   <p>
-    <a href="https://github.com/selfmadecode/StyleSense.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=StyleSense" alt="GitHub Stats" />
+    <a href="https://github.com/selfmadecode/Naija.LGA.Net.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Naija.LGA.Net" alt="GitHub Stats" />
     </a>    
   </p>
   <p>
