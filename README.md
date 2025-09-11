@@ -43,24 +43,33 @@
 <br>
 
 ## Feel free to contribute to these projects
-
-
-<div>
-  <p>
-    <a href="https://github.com/selfmadecode/SafeEnkrypt.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeEnkrypt" alt="GitHub Stats" />
-    </a>    
-  </p>
-  <p>
-    <a href="https://github.com/selfmadecode/Naija.LGA.Net.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Naija.LGA.Net" alt="GitHub Stats" />
-    </a>    
-  </p>
-  <p>
-    <a href="https://github.com/selfmadecode/world.net.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=world.net" alt="GitHub Stats" />
-    </a>    
-  </p>  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/selfmadecode/SafeEnkrypt.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeEnkrypt" alt="SafeEnkrypt" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/selfmadecode/Naija.LGA.Net.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Naija.LGA.Net" alt="Naija.LGA.Net" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/selfmadecode/world.net.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=world.net" alt="world.net" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/selfmadecode/Throttlr.Api.RateLimit.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Throttlr.Api.RateLimit" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br clear="both">
