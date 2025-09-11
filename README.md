@@ -57,8 +57,8 @@
     </a>    
   </p>
   <p>
-    <a href="https://github.com/selfmadecode/NextGen-ERP.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=NextGen-ERP" alt="GitHub Stats" />
+    <a href="https://github.com/selfmadecode/world.net.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=world.net" alt="GitHub Stats" />
     </a>    
   </p>  
 </div>
