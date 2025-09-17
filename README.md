@@ -42,7 +42,7 @@
 
 <br>
 
-## Feel free to contribute to these projects
+## Feel free to contribute to these projects:
 <div align="center">
   <table>
     <tr>
