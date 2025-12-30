@@ -42,36 +42,65 @@
 
 <br>
 
-## Feel free to contribute to these projects:
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/selfmadecode/SafeEnkrypt.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=SafeEnkrypt" alt="SafeEnkrypt" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/selfmadecode/Naija.LGA.Net.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Naija.LGA.Net" alt="Naija.LGA.Net" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/selfmadecode/world.net.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=world.net" alt="world.net" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/selfmadecode/Throttlr.Api.RateLimit.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selfmadecode&repo=Throttlr.Api.RateLimit" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<h2>Featured Open-Source Projects</h2>
 
+  <p>
+    I build practical, production-ready <strong>.NET libraries and APIs</strong>    
+    Feel free to explore, use, and contribute to any of the projects below.
+  </p>
+
+  <hr />
+
+  <h3>SafeEnkrypt</h3>
+  <p><strong>Secure encryption utilities for .NET applications</strong></p>
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/SafeEnkrypt">SafeEnkrypt</a></li>
+    <li><strong>Tech:</strong> C#, .NET, Cryptography</li>
+    <li><strong>Use cases:</strong> Data encryption, secure key handling, enterprise security</li>
+  </ul>
+
+  <hr />
+
+  <h3>Naija.LGA.Net</h3>
+  <p><strong>Complete Nigerian States & Local Government data for .NET</strong></p>
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/Naija.LGA.Net">Naija.LGA.Net</a></li>
+    <li><strong>Tech:</strong> C#, .NET</li>
+    <li><strong>Use cases:</strong> Address validation, fintech systems, location-based services</li>
+  </ul>
+
+  <hr />
+
+  <h3>World.Net</h3>
+  <p><strong>Global country, state, and region data for .NET applications</strong></p>
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/world.net">World.Net</a></li>
+    <li><strong>Tech:</strong> C#, .NET</li>
+    <li><strong>Use cases:</strong> International address support, geo-aware platforms</li>
+  </ul>
+
+  <hr />
+
+  <h3>Throttlr.Api.RateLimit</h3>
+  <p><strong>Lightweight and flexible API rate-limiting middleware</strong></p>
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/Throttlr.Api.RateLimit">Throttlr.Api.RateLimit</a></li>
+    <li><strong>Tech:</strong> C#, ASP.NET Core</li>
+    <li><strong>Use cases:</strong> API abuse prevention, traffic control, SaaS APIs</li>
+  </ul>
+
+  <hr />
+
+  <h2>Contributing</h2>
+  <p>
+    Contributions are welcome! You can help by submitting issues, improving
+    documentation, adding features, or reviewing pull requests.
+  </p>
+  <p>
+    If a project helps you, please consider <strong>starring ⭐ it</strong>.
+  </p>
+
+  <hr />
 <br clear="both">
 
 ### 🛠 &nbsp;Tech Stack:
