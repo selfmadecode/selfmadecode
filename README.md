@@ -53,6 +53,15 @@ Articles: </p>
   <hr />
 
   <h3>SafeEnkrypt</h3>
+  
+[![NuGet Version](https://img.shields.io/nuget/v/SafeCrypt.Data.Security.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/SafeCrypt.Data.Security)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/SafeCrypt.Data.Security.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/SafeCrypt.Data.Security)
+[![License](https://img.shields.io/github/license/selfmadecode/SafeKrypt.Data.Security.svg?style=flat)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/selfmadecode/SafeKrypt.Data.Security?style=flat&logo=github)](https://github.com/selfmadecode/SafeKrypt.Data.Security/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/selfmadecode/SafeKrypt.Data.Security.svg?style=flat)](https://github.com/selfmadecode/SafeKrypt.Data.Security/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/selfmadecode/SafeKrypt.Data.Security.svg?style=flat)](https://github.com/selfmadecode/SafeKrypt.Data.Security/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/selfmadecode/SafeKrypt.Data.Security/pulls)
+![.NET Standard 2.0](https://img.shields.io/badge/.NET-Standard%202.0-512BD4?style=flat&logo=dot-net)
   <p><strong>Secure encryption utilities for .NET applications</strong></p>
   <ul>
     <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/SafeEnkrypt">SafeEnkrypt</a></li>
@@ -63,6 +72,18 @@ Articles: </p>
   <hr />
 
   <h3>Naija.LGA.Net</h3>
+  
+[![NuGet Version](https://img.shields.io/nuget/v/Naija.LGA.Net.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/Naija.LGA.Net)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Naija.LGA.Net.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/Naija.LGA.Net)
+[![License](https://img.shields.io/github/license/selfmadecode/Naija.LGA.Net.svg?style=flat)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/selfmadecode/Naija.LGA.Net.svg?style=flat)](https://github.com/selfmadecode/Naija.LGA.Net/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/selfmadecode/Naija.LGA.Net.svg?style=flat)](https://github.com/selfmadecode/Naija.LGA.Net/pulls)
+[![.NET](https://img.shields.io/badge/.NET-%C2%B9.NET%20Standard%202.0-512BD4?style=flat&logo=dot-net)](https://dotnet.microsoft.com/)
+[![GitHub Stars](https://img.shields.io/github/stars/selfmadecode/Naija.LGA.Net.svg?style=flat&logo=github)](https://github.com/selfmadecode/Naija.LGA.Net/stargazers)
+![Last Commit](https://img.shields.io/github/last-commit/selfmadecode/Naija.LGA.Net?style=flat&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/selfmadecode/Naija.LGA.Net?style=flat)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/selfmadecode/Naija.LGA.Net/pulls)
+
   <p><strong>Complete Nigerian States & Local Government data for .NET</strong></p>
   <ul>
     <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/Naija.LGA.Net">Naija.LGA.Net</a></li>
