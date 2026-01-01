@@ -29,12 +29,13 @@
 
 
 <p align="left">
-🤖 I’m currently learning Machine Learning with ML.Net<br>
-👯 I’m looking to collaborate on C#, Machine Learning or AI Projects <br>
-🎲 Fun fact: If there is food, I will be there <br>
-💬 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion. <br>
-📫 I am also a technical writer at Medium <br>
-   📰 Articles: <br></p>
+I’m currently learning Machine Learning with ML.Net<br>
+I’m looking to collaborate on C#, Machine Learning or AI Projects <br>
+Fun fact: If there is food, I will be there <br>
+Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion. <br>
+I am also a technical writer at Medium
+  <br>
+Articles: </p>
 
 - [Running a .NET Application with MongoDB on Docker](https://medium.com/@anyanwuraphaelc/deploying-a-net-application-with-mongodb-on-docker-a-step-by-step-guide-10513d2d98e2) <br>
 - [Benefits of AsNoTracking in Entity Framework Core: A Guide to Improved Performance](https://medium.com/@anyanwuraphaelc/benefits-of-asnotracking-in-entity-framework-core-a-guide-to-improved-performance-186ed44a5eb7) <br>
