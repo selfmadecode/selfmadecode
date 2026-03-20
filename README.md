@@ -22,14 +22,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ## About me:
 
-<p align="left">5+ years professional experience as a C# .NET developer. Specialised in backend development and always tries to get my hands dirty on other tools or languages. I am a fast learner, always wanting to improve and eager to explore new technologies.</p>
+<p align="left">I build, I ship, I game..... </p>
 
 [Buy me coffe](https://www.buymeacoffee.com/raphaelanyanwu) <br>
 ###
 
 
 <p align="left">
-I’m currently learning Machine Learning with ML.Net<br>
 I’m looking to collaborate on C#, Machine Learning or AI Projects <br>
 Fun fact: If there is food, I will be there <br>
 Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion. <br>
@@ -46,8 +45,7 @@ Articles: </p>
 <h2>Featured Open-Source Projects</h2>
 
   <p>
-    I build practical, production-ready <strong>.NET libraries and APIs</strong>    
-    Feel free to explore, use, and contribute to any of the projects below.
+    Some libraries I've built. Feel free to use or contribute.
   </p>
 
   <hr />
