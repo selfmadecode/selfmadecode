@@ -8,10 +8,6 @@
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
-  
-  <!-- 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Raphael;Backend+Engineer;C+sharp+.net+developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiastic;" alt="Headline" />
-  -->
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
