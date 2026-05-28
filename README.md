@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ## About me:
 
-<p align="left">I build, I ship, I game..... </p>
+<p align="left">I build, I ship, I game....... </p>
 
 [Buy me coffe](https://www.buymeacoffee.com/raphaelanyanwu) <br>
 ###
