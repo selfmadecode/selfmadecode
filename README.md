@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;C+Sharp+.Net+Developer;Problem+Solver;Computer+Science+Graduate;AI%20|%20ML%20Enthusiast;" alt="Headline" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=selfmadecode&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
@@ -156,18 +153,7 @@ Articles: </p>
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selfmadecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=selfmadecode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=selfmadecode&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-### 📲 &nbsp;Connect with me on:
+Connect with me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/anyanwu-raphael/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
