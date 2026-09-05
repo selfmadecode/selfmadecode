@@ -62,6 +62,29 @@ Articles: </p>
 
   <hr />
 
+<h3>SlaCore</h3>
+  
+[![NuGet Version](https://img.shields.io/nuget/v/SlaCore.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/SlaCore)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/SlaCore.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/SlaCore)
+[![License](https://img.shields.io/github/license/selfmadecode/SlaCalculator.svg?style=flat)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/selfmadecode/SlaCalculator?style=flat&logo=github)](https://github.com/selfmadecode/SlaCalculator/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/selfmadecode/SlaCalculator.svg?style=flat)](https://github.com/selfmadecode/SlaCalculator/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/selfmadecode/SlaCalculator.svg?style=flat)](https://github.com/selfmadecode/SlaCalculator/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/selfmadecode/SlaCalculator/pulls)
+![.NET Standard 2.0](https://img.shields.io/badge/.NET-Standard%202.0-512BD4?style=flat&logo=dot-net)
+  <p><strong>.NET library for calculating SLA deadlines and evaluating SLA status.</strong></p>
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/selfmadecode/SlaCalculator">SlaCalculator</a></li>
+    <li><strong>Tech:</strong> C#, .NET</li>
+    <li><strong>Use cases:</strong> SLA deadlines, business hours, working days, and time-based service calculations</li>
+  </ul>
+
+  <hr />
+
+
+
+  
+
   <h3>Naija.LGA.Net</h3>
   
 [![NuGet Version](https://img.shields.io/nuget/v/Naija.LGA.Net.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/Naija.LGA.Net)
